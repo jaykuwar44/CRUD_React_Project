@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ram Vir",
+      "email": "ram@41gmail.com",
+      "phone": 7864866543,
+      "city": "Nandurbar"
+    },
+    {
+      "id": 2,
+      "name": "Sachin Kumavat",
+      "email": "sachin@14gmail.com",
+      "phone": 7886095643,
+      "city": "Jalgoan"
+    },
+    {
+      "id": 3,
+      "name": "Akshay More",
+      "email": "aksha@13gmail.com",
+      "phone": 9848665390,
+      "city": "Pune"
+    },
+    {
+      "id": 4,
+      "name": "Virat kohli",
+      "email": "virkohli@16gmail.com",
+      "phone": 8786638573,
+      "city": "Mumbai"
+    },
+    {
+      "id": 5,
+      "name": "Mahi Dhoni",
+      "email": "msd@07gmail.com",
+      "phone": 9586589490,
+      "city": "Mumbai"
+    },
+    {
+      "name": "Jay Kuwar",
+      "email": "jay121@gmail.com",
+      "phone": "9579168547",
+      "city": "NDB",
+      "id": 6
+    }
+  ]
+}
